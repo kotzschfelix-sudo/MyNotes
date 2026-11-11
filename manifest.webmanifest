@@ -1,0 +1,13 @@
+{
+  "name": "MyNotes – MyDigital",
+  "short_name": "MyNotes",
+  "description": "Deine Gedanken, Ideen und Notizen an einem Ort.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101118",
+  "theme_color": "#11121a",
+  "icons": [
+    {"src":"./icons/mynotes.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
